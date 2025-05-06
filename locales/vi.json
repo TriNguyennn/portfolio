@@ -7,10 +7,9 @@
     "contact": "LIÊN HỆ"
   },
   "services": {
-    "game_dev": "Lập trình viên Game",
-    "game_design": "Thiết kế Game",
-    "web_dev": "Lập trình viên Web",
-    "mobile_dev": "Lập trình viên Mobile"
+    "game_dev": "Game Designer",
+    "game_design": "Product Owner",
+    "web_dev": "Project Manager",
   },
   "experiences": {
     "ta_title": "Trợ giảng",
@@ -67,13 +66,13 @@
     }
   },
   "footer": {
-    "name": "Mai Gia Minh",
+    "name": "Nguyễn Anh Trí",
     "home": "Trang chủ",
     "about": "Giới thiệu",
     "experience": "Kinh nghiệm",
     "projects": "Dự án",
     "contact": "Liên hệ",
-    "privacy": "Mai Gia Minh. Đã đăng ký bản quyền hehe."
+    "privacy": "Nguyễn Anh Trí. Đã đăng ký bản quyền hehe."
   },
   
   "projects": {
