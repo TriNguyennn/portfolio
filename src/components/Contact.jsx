@@ -42,9 +42,9 @@ const Contact = () => {
         'template_pq0ngi1',
         {
           from_name: form.name,
-          to_name: "Mai Gia Minh",
+          to_name: "Nguyen Anh Tri",
           from_email: form.email,
-          to_email: "minh.mgia@gmail.com",
+          to_email: "nguyenanhtri211199@gmail.com",
           message: form.message,
         },
         'jXsglv_4SerU65DYf'

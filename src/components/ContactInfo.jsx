@@ -45,7 +45,7 @@ const ContactInfo = () => {
             <motion.h1 className="text-[30px] md:text-[40px] font-bold">{t("contact.contact_info")}</motion.h1>
             <motion.div className="item mt-10">
                 <h2 className="font-bold">Mail</h2>
-                <span>minh.mgia@gmail.com</span>
+                <span>nguyenanhtri211199@gmail.com</span>
             </motion.div>
             <motion.div className="item mt-4">
                 <h2 className="font-bold">{t("contact.address")}</h2>
@@ -53,7 +53,7 @@ const ContactInfo = () => {
             </motion.div>
             <motion.div className="item mt-4">
                 <h2 className="font-bold">{t("contact.phone")}</h2>
-                <span>(+84) 903 614 342</span>
+                <span>(+84) 365 154 464</span>
             </motion.div>
         </motion.div>
 
@@ -63,7 +63,7 @@ const ContactInfo = () => {
             <motion.h1 className="text-[20px] md:text-[30px] font-bold">{t("contact.contact_info")}</motion.h1>
             <motion.div className="item mt-6">
                 <h2 className="font-bold">Mail</h2>
-                <span>minh.mgia@gmail.com</span>
+                <span>nguyenanhtri211199@gmail.com</span>
             </motion.div>
             <motion.div className="item mt-4">
                 <h2 className="font-bold">{t("contact.address")}</h2>
@@ -71,7 +71,7 @@ const ContactInfo = () => {
             </motion.div>
             <motion.div className="item mt-4">
                 <h2 className="font-bold">{t("contact.phone")}</h2>
-                <span>(+84) 903 614 342</span>
+                <span>(+84) 365 154 464</span>
             </motion.div>
         </motion.div>
     </motion.div>
